@@ -173,12 +173,18 @@ Yves Lange (author)
 
 # Comments
 ```text
-Wanted to say thanks. You've done groundbreaking work on JsPrint. Its a simple and elegant solution to reporting problem in PHP apps.
-We've been thinking about a solution for months and finally someone comes up with an excellent answer. Sadly our team is lacking a JS developer. So we'll be waiting for the next update.
+Wanted to say thanks. You've done groundbreaking work on JsPrint. 
+Its a simple and elegant solution to reporting problem in PHP apps.
+We've been thinking about a solution for months and finally someone
+comes up with an excellent answer.
+So we'll be waiting for the next update.
+
 Thanks again.
-Peace be with you.
-Mohsin .R
+Peace be with you, Mohsin .R
 @WaysAll
 p.s. What is on the roadmap?
 ```
 I'm waiting for some feedbacks and I'll continue to improve this lib that I'm using everyday.
+I already converted this lib into CoffeeScript so now... it's less verbose and I'll improve the
+H1,2,3,4 with the summarize functionnality. I also have the project to make it a bit more
+compatible with the other browser.
