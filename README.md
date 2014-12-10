@@ -170,3 +170,15 @@ to it. This will avoid the title to be added into the summary.
 
 # Contributions
 Yves Lange (author)
+
+# Comments
+```text
+Wanted to say thanks. You've done groundbreaking work on JsPrint. Its a simple and elegant solution to reporting problem in PHP apps.
+We've been thinking about a solution for months and finally someone comes up with an excellent answer. Sadly our team is lacking a JS developer. So we'll be waiting for the next update.
+Thanks again.
+Peace be with you.
+Mohsin .R
+@WaysAll
+p.s. What is on the roadmap?
+```
+I'm waiting for some feedbacks and I'll continue to improve this lib that I'm using everyday.
